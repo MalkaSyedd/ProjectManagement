@@ -53,5 +53,4 @@ npm start
 http://localhost:3000/
 ```
 
-## Author
-Malka Syed (MS379951)
+
